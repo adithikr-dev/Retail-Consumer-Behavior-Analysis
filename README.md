@@ -1,2 +1,2 @@
 # Retail-Consumer-Behavior-Analysis
-This project demonstrates an end-to-end data analytics workflow, including data cleaning, transformation, analysis, and visualization. Using tools like SQL, Excel, and Power BI, the project converts raw data into meaningful insights to support data-driven decision-making.
+An end-to-end data analytics project analyzing retail customer shopping behavior using SQL, Python, and Power BI. The project includes data cleaning, exploratory data analysis, and interactive dashboards to generate business insights from retail data. 📊
