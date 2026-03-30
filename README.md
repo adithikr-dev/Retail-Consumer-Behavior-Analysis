@@ -75,7 +75,7 @@ Retail-Consumer-Behavior-Analysis/
 ├── sql/
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 ## 🚀 How to Run the Project
