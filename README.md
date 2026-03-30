@@ -68,13 +68,13 @@ This project analyzes retail transaction data to understand customer purchasing 
 ```
 Retail-Consumer-Behavior-Analysis/
 │
-├── data/                # Dataset files
-├── notebooks/           # Python analysis notebooks
-├── sql/                 # SQL queries
-├── dashboard/           # Power BI (.pbix) file
-├── images/              # Dashboard screenshots
+├── dashboard/
+├── data/ 
+├── images/
+├── notebooks/
+├── sql/
+├── LICENSE
 └── README.md
-```
 
 ---
 
