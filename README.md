@@ -53,6 +53,7 @@ This project focuses on analyzing retail transaction data to understand customer
 ---
 
 📁 Project Structure
+
 data/ → Dataset  
 notebooks/ → Python analysis  
 sql/ → SQL queries  
